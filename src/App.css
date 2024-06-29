@@ -77,3 +77,9 @@ p b {
 .country-tab {
   display: flex;
 }
+
+.error {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
